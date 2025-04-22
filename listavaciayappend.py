@@ -5,5 +5,5 @@ nombre = input("Por favor, ingresa tu nombre: ")
 nombres.append(nombre)
   
 
-print("La lista de nombres es:")
+print("el nombres es:")
 print(nombres)
